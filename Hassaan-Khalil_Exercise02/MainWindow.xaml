@@ -1,0 +1,48 @@
+﻿<Window x:Class="Hassaan_Khalil_Exercise02.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hassaan_Khalil_Exercise02"
+        mc:Ignorable="d"
+        Title="Exercise02" Height="275" Width="794">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <GroupBox Header="Personal Information" Grid.Column="0">
+            <StackPanel Height="234" VerticalAlignment="Top" Margin="0,0,12,0">
+                <Label Content="Name of Patient:" Width="99" HorizontalAlignment="Left"/>
+                <TextBox x:Name="name" TextWrapping="Wrap" Width="265"/>
+                <Label Content="Address:"/>
+                <TextBox x:Name="address" TextWrapping="Wrap" Width="265"/>
+                <Label Content="Province:"/>
+                <ComboBox x:Name="province" Width="265" SelectionChanged="province_SelectionChanged">
+                    <ComboBoxItem Content="Ontario 13%"/>
+                    <ComboBoxItem Content="Alberta 7%"/>
+                    <ComboBoxItem Content="Quebec 6%"/>
+                </ComboBox>
+                <Label Content="Age Group:"/>
+                <RadioButton x:Name="seniorRadio" Content="Senior" HorizontalAlignment="Left" Checked="seniorRadio_Checked"/>
+                <RadioButton x:Name="youthRadio" Content="Kid and Youth" Checked="youthRadio_Checked"/>
+                <RadioButton x:Name="adultRadio" Content="Adult" Checked="adultRadio_Checked"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Grid.Column="1" Header="Dental Services Available">
+            <StackPanel>
+                <CheckBox x:Name="flossingCheck" Content="Flossing" Height="23" Width="250" Checked="flossingCheck_Checked"/>
+                <Label Content="$20.00" HorizontalAlignment="Center" Width="250" HorizontalContentAlignment="Right"/>
+                <CheckBox x:Name="fillingCheck" Content="Filling" Height="23" Width="250" Checked="fillingCheck_Checked"/>
+                <Label Content="$75.00" HorizontalAlignment="Center" Width="250" HorizontalContentAlignment="Right"/>
+                <CheckBox x:Name="rootCheck" Content="Root Canal" Height="23" Width="250" Checked="rootCheck_Checked"/>
+                <Label Content="$150.00" HorizontalAlignment="Center" Width="250" HorizontalContentAlignment="Right"/>
+                <Button x:Name="calculateButton" Content="Calculate" Click="calculateButton_Click"/>
+                <Label x:Name="output" Content="Output Goes Here"/>
+
+            </StackPanel>
+        </GroupBox>
+
+    </Grid>
+</Window>

@@ -1,0 +1,72 @@
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\bin\Debug\Books.mdf
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\bin\Debug\Books_log.ldf
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\bin\Debug\Hassaan-Khalil_Exercise05.exe.config
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\bin\Debug\Hassaan-Khalil_Exercise05.exe
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\bin\Debug\Hassaan-Khalil_Exercise05.pdb
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\bin\Debug\EntityFramework.dll
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\bin\Debug\EntityFramework.SqlServer.dll
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\bin\Debug\EntityFramework.xml
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\bin\Debug\EntityFramework.SqlServer.xml
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05.csproj.AssemblyReference.cache
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05.csproj.SuggestedBindingRedirects.cache
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\MainWindow.g.cs
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\App.g.cs
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05_Content.g.cs
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05_MarkupCompile.cache
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05_MarkupCompile.lref
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\MainWindow.baml
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05.g.resources
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan_Khalil_Exercise05.Properties.Resources.resources
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05.csproj.GenerateResource.cache
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05.csproj.CoreCompileInputs.cache
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05.csproj.CopyComplete
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05.exe
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05.pdb
+C:\Users\301137845\Downloads\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\bin\Debug\Books.mdf
+C:\Users\301137845\Downloads\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\bin\Debug\Books_log.ldf
+C:\Users\301137845\Downloads\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\bin\Debug\Hassaan-Khalil_Exercise05.exe.config
+C:\Users\301137845\Downloads\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\bin\Debug\Hassaan-Khalil_Exercise05.exe
+C:\Users\301137845\Downloads\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\bin\Debug\Hassaan-Khalil_Exercise05.pdb
+C:\Users\301137845\Downloads\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\bin\Debug\EntityFramework.dll
+C:\Users\301137845\Downloads\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\301137845\Downloads\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\bin\Debug\EntityFramework.xml
+C:\Users\301137845\Downloads\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\301137845\Downloads\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05.csproj.AssemblyReference.cache
+C:\Users\301137845\Downloads\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05.csproj.SuggestedBindingRedirects.cache
+C:\Users\301137845\Downloads\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\MainWindow.g.cs
+C:\Users\301137845\Downloads\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\App.g.cs
+C:\Users\301137845\Downloads\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05_Content.g.cs
+C:\Users\301137845\Downloads\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05_MarkupCompile.cache
+C:\Users\301137845\Downloads\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05_MarkupCompile.lref
+C:\Users\301137845\Downloads\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\MainWindow.baml
+C:\Users\301137845\Downloads\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05.g.resources
+C:\Users\301137845\Downloads\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan_Khalil_Exercise05.Properties.Resources.resources
+C:\Users\301137845\Downloads\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05.csproj.GenerateResource.cache
+C:\Users\301137845\Downloads\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05.csproj.CoreCompileInputs.cache
+C:\Users\301137845\Downloads\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05.csproj.CopyComplete
+C:\Users\301137845\Downloads\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05.exe
+C:\Users\301137845\Downloads\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05.pdb
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\bin\Debug\Books.mdf
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\bin\Debug\Books_log.ldf
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\bin\Debug\Hassaan-Khalil_Exercise05.exe.config
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\bin\Debug\Hassaan-Khalil_Exercise05.exe
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\bin\Debug\Hassaan-Khalil_Exercise05.pdb
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\bin\Debug\EntityFramework.dll
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\bin\Debug\EntityFramework.SqlServer.dll
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\bin\Debug\EntityFramework.xml
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\bin\Debug\EntityFramework.SqlServer.xml
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05.csproj.AssemblyReference.cache
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05.csproj.SuggestedBindingRedirects.cache
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\MainWindow.g.cs
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\App.g.cs
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05_Content.g.cs
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05_MarkupCompile.cache
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05_MarkupCompile.lref
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\MainWindow.baml
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05.g.resources
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan_Khalil_Exercise05.Properties.Resources.resources
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05.csproj.GenerateResource.cache
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05.csproj.CoreCompileInputs.cache
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05.csproj.CopyComplete
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05.exe
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise05\obj\Debug\Hassaan-Khalil_Exercise05.pdb

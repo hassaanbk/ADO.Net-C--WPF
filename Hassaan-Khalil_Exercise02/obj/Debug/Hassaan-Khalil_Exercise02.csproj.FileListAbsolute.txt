@@ -1,0 +1,16 @@
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise02\bin\Debug\Hassaan-Khalil_Exercise02.exe.config
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise02\bin\Debug\Hassaan-Khalil_Exercise02.exe
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise02\bin\Debug\Hassaan-Khalil_Exercise02.pdb
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise02\obj\Debug\Hassaan-Khalil_Exercise02.csproj.AssemblyReference.cache
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise02\obj\Debug\Hassaan-Khalil_Exercise02.csproj.SuggestedBindingRedirects.cache
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise02\obj\Debug\MainWindow.g.cs
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise02\obj\Debug\App.g.cs
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise02\obj\Debug\Hassaan-Khalil_Exercise02_MarkupCompile.cache
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise02\obj\Debug\Hassaan-Khalil_Exercise02_MarkupCompile.lref
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise02\obj\Debug\MainWindow.baml
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise02\obj\Debug\Hassaan-Khalil_Exercise02.g.resources
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise02\obj\Debug\Hassaan_Khalil_Exercise02.Properties.Resources.resources
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise02\obj\Debug\Hassaan-Khalil_Exercise02.csproj.GenerateResource.cache
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise02\obj\Debug\Hassaan-Khalil_Exercise02.csproj.CoreCompileInputs.cache
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise02\obj\Debug\Hassaan-Khalil_Exercise02.exe
+C:\Course Work\Programming 3\Assignments\Hassaan-Khalil_COMP212Sec004_Lab04\Hassaan-Khalil_Exercise02\obj\Debug\Hassaan-Khalil_Exercise02.pdb
